@@ -2,11 +2,8 @@ import { MongoClient, Db, Collection, Document, MongoClientOptions } from 'mongo
 import { isMainThread } from 'worker_threads';
 
 export type DBOPTIONS = {
-    // contains indexes?: string[], uniqueIndexes?: string[]
     indexes?: string[];
     uniqueIndexes?: string[];
-
-    // contains other optional stuffs
     [key: string]: any;
 };
 
