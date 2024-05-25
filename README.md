@@ -48,7 +48,6 @@ In the local machine configuration, the react pages are served using the same se
 
 ```bash
 cd exco-backend
-
 npm i
 
 # create .env file and configure bellow field
@@ -63,7 +62,6 @@ JWT_SECRET=""
 
 ```bash
 cd exco-frontend
-
 npm i
 
 # create .env file and configure bellow field
@@ -74,6 +72,6 @@ REACT_APP_BASE_API_URL =http://localhost:8080/
 Then run the server:
 
 ```bash
-npm run start #For both exco-backend & exco-frontend
-
+#For both exco-backend & exco-frontend
+npm run start
 ```
