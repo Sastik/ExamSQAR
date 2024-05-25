@@ -10,7 +10,7 @@ export const Footerpart = () => {
         }}
       >
         <a
-          href="http://localhost:8090/"
+          href="https://exam-sqar.vercel.app/"
           style={{
             display: "flex",
             alignItems: "center",
@@ -38,7 +38,7 @@ export const Footerpart = () => {
         >
           © 2024{" "}
           <a
-            href="http://localhost:8090/"
+            href="https://exam-sqar.vercel.app/"
             style={{ textDecoration: "none", color: "inherit" }}
           >
             ExamSQAR™

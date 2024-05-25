@@ -1,5 +1,5 @@
-// Author: Abrar Mahmud
-// Email: abrar.mahmud@g.bracu.ac.bd
+// Author: Sastik Kumar Das
+// Email: sastikkumardas@gmail.com
 
 import { Application, Request, Response } from 'express';
 import { Result, PayloadResult } from '../utils/common';
