@@ -46,7 +46,7 @@ const RegisterPage: React.FC = () => {
     const sendEmail = (user: any) => {
       emailjs
         .send(
-          "service_angbpcn",
+          "service_xs9cwvf",
           "template_7ukgiz5",
           {
             to_name: user.firstName,
