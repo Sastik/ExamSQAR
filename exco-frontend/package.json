@@ -6,6 +6,7 @@
     "@ant-design/icons": "^4.8.0",
     "@codemirror/lang-markdown": "^6.0.5",
     "@codemirror/language-data": "^6.1.0",
+    "@emailjs/browser": "^4.3.3",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
