@@ -4,6 +4,11 @@
 
 This MERN-stack based application allows teachers create, conduct, manage MCQ-based remote exams with ease, and lets students to participate in them.
 
+
+## Why this project
+
+As we move towards a more digital world, it's essential to ensure that technology is accessible, affordable, and adds value to daily life. Now days maximum exam like 10th, 11th, 12th contains huge amount of mcqs question, and teachers should make student practice these mcq test so that To address this, i decided to create an online exam conductor portal.
+
 ## Features
 
 * For Teachers
