@@ -128,11 +128,15 @@ const ExamListPage: React.FC = () => {
 
   return (
     <>
+     <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
       <NavMenu selected="exams" />
-      <Content className="contentjam">{toDisplay}</Content>
+      <div style={{ flex: 1 }}>
+        <Content className="contentjam">{toDisplay}</Content>
+      </div>
       <Footer>
         <Footerpart />
       </Footer>
+    </div>
     </>
   );
 };
